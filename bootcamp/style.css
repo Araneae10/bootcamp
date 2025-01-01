@@ -1,0 +1,7 @@
+.nav-bar{
+    text-decoration: none;
+}
+.nav-list li{
+    display: inline-block;
+    margin-left: 20px;
+}
